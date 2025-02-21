@@ -1,5 +1,5 @@
 
-ARG BASE_IMAGE=alpine:3.21.2
+ARG BASE_IMAGE=alpine:3.21.3
 ARG JS_IMAGE=node:22.0.0-alpine3.21
 ARG JS_PLATFORM=linux/amd64
 ARG GO_IMAGE=golang:1.23.1-alpine3.21
